@@ -1,6 +1,6 @@
-# Windows PT-PT Layout for Apple Keyboards
+# Windows PT-PT Layout for Apple Magic Keyboards
 
-A Windows keyboard layout that matches Portuguese Apple Keyboards.
+A Windows keyboard layout that matches Portuguese Apple Magic Keyboards.
 
 This is the source file meant to be used and compiled with the [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339).
 
